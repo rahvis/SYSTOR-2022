@@ -1,6 +1,6 @@
 # SYSTOR '22: 15th ACM International Conference on Systems and Storage 
 
-The work was done in collaborationwith Dell Technologies. <br>
+The work was done in collaboration with **Dell Technologies**. <br>
 Paper: https://dl.acm.org/doi/abs/10.1145/3534056.3534997 <br>
 
 # Abstract 
